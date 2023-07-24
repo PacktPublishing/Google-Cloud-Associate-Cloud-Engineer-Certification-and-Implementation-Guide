@@ -11,8 +11,8 @@ In addition to the book, we will also be providing answers to two mock chapters 
 
 We hope that you find this repository helpful. If you have any questions, please feel free to post them in the Issues section.
 
-Thanks,
+Thanks,<br>
 The Authors - Agnieszka and Wojciech
 
 
-If you don't have the book yet, feel free to purchase it - for example from Amazon [ACE Book on Amazon](https://www.amazon.com/Associate-Cloud-Engineer-Certification-hands-ebook/dp/B0CB68K33C/) 
+If you don't have the book yet, feel free to purchase it - for example from Amazon [ACE Book on Amazon](https://www.amazon.com/Associate-Cloud-Engineer-Certification-hands-ebook/dp/B0CB68K33C/).
