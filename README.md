@@ -3,7 +3,7 @@ Google Cloud Associate Cloud Engineer Certification and and Implementation Guide
 
 ![ACE Book Logo](./assets/ace-book-logo.jpg)
 
-Welcome to the GitHub repository for the book "Associate Cloud Engineer - Google Cloud Certification Guide"!
+Welcome to the GitHub repository for the book **Associate Cloud Engineer - Google Cloud Certification Guide**!
 
 This book is designed to help you prepare for the Google Cloud Associate Cloud Engineer certification exam. The book covers all of the topics that are covered on the exam, and it includes practice questions and answers.
 
