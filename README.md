@@ -57,8 +57,6 @@ With the following software and hardware list you can run all code files present
 | ------------------------------------ | ----------------------------------- |
 | Google Cloud SDK | Windows, macOS, or Linux |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
-
 ### Related products
 * Google Cloud for DevOps Engineers [[Packt]](https://www.packtpub.com/product/google-cloud-for-devops-engineers/9781839218019?utm_source=github&utm_medium=repository&utm_campaign=9781839218019) [[Amazon]](https://www.amazon.com/dp/1839218010)
 
