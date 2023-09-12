@@ -60,8 +60,6 @@ With the following software and hardware list you can run all code files present
 ### Related products
 * Google Cloud for DevOps Engineers [[Packt]](https://www.packtpub.com/product/google-cloud-for-devops-engineers/9781839218019?utm_source=github&utm_medium=repository&utm_campaign=9781839218019) [[Amazon]](https://www.amazon.com/dp/1839218010)
 
-* Official Google Cloud Certified Associate Cloud Engineer Study Guide [[Packt]](https://www.packtpub.com/product/official-google-cloud-certified-associate-cloud-engineer-study-guide/9781119564416?utm_source=github&utm_medium=repository&utm_campaign=9781119564416) [[Amazon]](https://www.amazon.com/dp/1119564417)
-
 ## Get to Know the Authors
 
 **Agnieszka Koziorowska**<br>
