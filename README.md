@@ -57,6 +57,10 @@ With the following software and hardware list you can run all code files present
 | ------------------------------------ | ----------------------------------- |
 | Google Cloud SDK | Windows, macOS, or Linux |
 
+## Errata
+* Chapter 14, Mock Test 2 - The answer to Question 42 incorrectly states that the correct options are B and C, instead of B, C and D.
+* Chapter 14, Mock Test 2 - Question 46 option B is incorrectly stated as — _Special roles_, it should instead be — _Predefined roles_.
+
 ### Related products
 * Google Cloud for DevOps Engineers [[Packt]](https://www.packtpub.com/product/google-cloud-for-devops-engineers/9781839218019?utm_source=github&utm_medium=repository&utm_campaign=9781839218019) [[Amazon]](https://www.amazon.com/dp/1839218010)
 
