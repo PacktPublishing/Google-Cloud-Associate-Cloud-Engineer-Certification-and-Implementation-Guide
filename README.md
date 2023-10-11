@@ -7,6 +7,7 @@ This is the code repository for [Google Cloud Associate Cloud Engineer Certifica
 **Master the deployment, management, and monitoring of Google Cloud solutions**
 
 ## What is this book about?
+This book serves as a guide for students preparing for ACE certification, offering invaluable practical knowledge and hands-on experience in implementing various Google Cloud Platform services. By actively engaging with the content, you’ll gain the confidence and expertise needed to excel in your certification journey.
 
 This book covers the following exciting features:
 * Grasp the key topics needed to achieve ACE certification
