@@ -1,4 +1,4 @@
-# Google Cloud Associate Cloud Engineer Certification and and Implementation Guide
+# Google Cloud Associate Cloud Engineer Certification and Implementation Guide
 
 <a href="https://www.packtpub.com/product/google-cloud-associate-cloud-engineer-certification-and-implementation-guide/9781803232713?utm_source=github&utm_medium=repository&utm_campaign=9781803232713"><img src="https://content.packt.com/B18851/cover_image_small.jpg" alt="" height="256px" align="right"></a>
 
